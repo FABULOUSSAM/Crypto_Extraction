@@ -1,0 +1,54 @@
+SNo,Name,Symbol,URL
+1,Bitcoin,BTC,https://coinmarketcap.com/currencies/bitcoin/
+2,Ethereum,ETH,https://coinmarketcap.com/currencies/ethereum/
+3,Binance Coin,BNB,https://coinmarketcap.com/currencies/binance-coin/
+4,Dogecoin,DOGE,https://coinmarketcap.com/currencies/dogecoin/
+5,XRP,XRP,https://coinmarketcap.com/currencies/xrp/
+6,Cardano,ADA,https://coinmarketcap.com/currencies/cardano/
+7,Polkadot,DOT,https://coinmarketcap.com/currencies/polkadot-new/
+8,Bitcoin Cash,BCH,https://coinmarketcap.com/currencies/bitcoin-cash/
+9,Litecoin,LTC,https://coinmarketcap.com/currencies/litecoin/
+10,VeChain,VET,https://coinmarketcap.com/currencies/vechain/
+11,Stellar,XLM,https://coinmarketcap.com/currencies/stellar/
+12,Ethereum Classic,ETC,https://coinmarketcap.com/currencies/ethereum-classic/
+13,THETA,THETA,https://coinmarketcap.com/currencies/theta/
+14,Solana,SOL,https://coinmarketcap.com/currencies/solana/
+15,Filecoin,FIL,https://coinmarketcap.com/currencies/filecoin/
+16,TRON,TRX,https://coinmarketcap.com/currencies/tron/
+17,EOS,EOS,https://coinmarketcap.com/currencies/eos/
+18,Neo,NEO,https://coinmarketcap.com/currencies/neo/
+19,Monero,XMR,https://coinmarketcap.com/currencies/monero/
+20,Bitcoin SV,BSV,https://coinmarketcap.com/currencies/bitcoin-sv/
+21,Terra,LUNA,https://coinmarketcap.com/currencies/terra-luna/
+22,IOTA,MIOTA,https://coinmarketcap.com/currencies/iota/
+23,Cosmos,ATOM,https://coinmarketcap.com/currencies/cosmos/
+24,Klaytn,KLAY,https://coinmarketcap.com/currencies/klaytn/
+25,Tezos,XTZ,https://coinmarketcap.com/currencies/tezos/
+26,Avalanche,AVAX,https://coinmarketcap.com/currencies/avalanche/
+27,Algorand,ALGO,https://coinmarketcap.com/currencies/algorand/
+28,Dash,DASH,https://coinmarketcap.com/currencies/dash/
+29,Kusama,KSM,https://coinmarketcap.com/currencies/kusama/
+30,Zcash,ZEC,https://coinmarketcap.com/currencies/zcash/
+31,NEM,XEM,https://coinmarketcap.com/currencies/nem/
+32,Waves,WAVES,https://coinmarketcap.com/currencies/waves/
+33,Elrond,EGLD,https://coinmarketcap.com/currencies/elrond-egld/
+34,Qtum,QTUM,https://coinmarketcap.com/currencies/qtum/
+35,Decred,DCR,https://coinmarketcap.com/currencies/decred/
+36,Zilliqa,ZIL,https://coinmarketcap.com/currencies/zilliqa/
+37,Hedera Hashgraph,HBAR,https://coinmarketcap.com/currencies/hedera-hashgraph/
+38,Bitcoin Gold,BTG,https://coinmarketcap.com/currencies/bitcoin-gold/
+39,Stacks,STX,https://coinmarketcap.com/currencies/stacks/
+40,TerraUSD,UST,https://coinmarketcap.com/currencies/terrausd/
+41,Theta Fuel,TFUEL,https://coinmarketcap.com/currencies/theta-fuel/
+42,Ontology,ONT,https://coinmarketcap.com/currencies/ontology/
+43,DigiByte,DGB,https://coinmarketcap.com/currencies/digibyte/
+44,Fantom,FTM,https://coinmarketcap.com/currencies/fantom/
+45,NEAR Protocol,NEAR,https://coinmarketcap.com/currencies/near-protocol/
+46,Siacoin,SC,https://coinmarketcap.com/currencies/siacoin/
+47,Bitcoin Diamond,BCD,https://coinmarketcap.com/currencies/bitcoin-diamond/
+48,ICON,ICX,https://coinmarketcap.com/currencies/icon/
+49,Horizen,ZEN,https://coinmarketcap.com/currencies/horizen/
+50,Ravencoin,RVN,https://coinmarketcap.com/currencies/ravencoin/
+Symbol,Name,WatchlistCount	,Website URL,Circulating Supply %,Price,Volume/Market Cap,Market Dominance,Rank,Market Cap,All Time High - DATE,All Time High - PRICE,All Time Low  - DATE,All Time Low  - PRICE,What is <Coin Name>?,Who are the founders?,What makes it unique?
+DOGE,Dogecoin,"On 659,630 watchlists",http://dogecoin.com/,"$69,921,436,767",$0.5399,0.3826,2.87%,#4,"$69,921,436,766.9024.63%","May 08, 2021 (a day ago)",$0.7376,$0.00008547,<span>$0.00008547</span>,DATA NOT FOUND,"What Is Dogecoin?Dogecoin (DOGE) is based on the popular ""doge"" Internet meme and features a Shiba Inu on its logo. The open-source digital currency was created by Billy Markus from Portland, Oregon and Jackson Palmer from Sydney, Australia, and was forked from Litecoin in December 2013. Dogecoin's creators envisaged it as a fun, light-hearted cryptocurrency that would have greater appeal beyond the core Bitcoin audience, since it was based on a dog meme. Tesla CEO Elon Musk posted several tweets on social media that Dogecoin is his favorite coin.How Do You Mine Dogecoin?Dogecoin differs from Bitcoin's proof-of-work protocol in several ways, one of which is by using Scrypt technology. The altcoin has also a block time of 1 minute, and the total supply is uncapped, which means that there is no limit to the number of Dogecoin that can be mined.
+You can mine Dogecoin either solo, or by joining a mining pool. A Doge miner can mine the digital currency on Windows, Mac or Linux, and with a GPU. As of 2014, you can also mine Litecoin in the same process of mining Dogecoin, as the processes were merged.What Can Dogecoin Be Used For?Dogecoin has been used primarily as a tipping system on Reddit and Twitter to reward the creation or sharing of quality content. You can get tipped Dogecoin by participating in a community that uses the digital currency, or you can get your Dogecoin from a Dogecoin faucet. A Dogecoin faucet is a website that will give you a small amount of Dogecoin for free as an introduction to the currency, so that you can begin interacting in Dogecoin communities.How Can You Buy Dogecoin?You can buy or sell Dogecoin at any exchange that offers the digital currency, store it on an exchange or in a Dogecoin wallet, and tip Dogecoin in any communities that accept Dogecoin. For the latest list of exchanges and trading pairs for this cryptocurrency, click on our market pairs tab.",Data NOT FOUND
